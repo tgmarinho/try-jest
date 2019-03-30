@@ -4,6 +4,6 @@
 
 To run the project:
 
-Clone this repo
-Run npm install
-Run npm t
+1. Clone this repo
+2. Run npm install
+3. Run npm t
