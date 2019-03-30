@@ -1,3 +1,3 @@
-#Testing with JEST
+## Testing with JEST
 
-## Praticing some test with the amazing lib Jest.
+* Practicing some test with the amazing lib Jest(https://jestjs.io/).
